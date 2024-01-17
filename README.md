@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Phoenix-Bytes
-- 👀 I’m interested in Data Science, Machine Learning
-- 🌱 I’m currently working as a Data Engineer
-- 💞️ I’m looking to collaborate on DS, ML Projects
+- 👋 Hi folks, @Phoenix-Bytes here
+- 👀 A curious learner intrested in topics like dsa, python, ML & AI
+- 🌱 Currently working as a Data Engineer
   
 
 <!---
